@@ -115,3 +115,9 @@ This is a personal learning repository for practicing Python skills that support
 <div align="center">
   <sub>Built through practice, one Python concept at a time.</sub>
 </div>
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). The license applies to original code and documentation in this repository. Third-party datasets and other included materials remain subject to their respective terms.
+
+---
